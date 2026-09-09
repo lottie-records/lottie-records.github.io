@@ -1,4 +1,4 @@
-# lotties-records.github.io
+# lottie-records.github.io
 lo's records
 
 <!-- START OF COPYRIGHT FOOTER -->
